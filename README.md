@@ -29,6 +29,7 @@ Moving Average: Price trend analysis
 Helps identify seasonal patterns and growth trajectories
 
 **2. Product Performance Analysis**
+
 Year-over-Year Product Comparison
 Analyzes each product's performance by:
 
@@ -47,12 +48,17 @@ Product Segmentation by Cost
 Products are grouped into cost ranges:
 
 Below $100
+
 $100 - $500
+
 $500 - $1,000
+
 Above $1,000
 
 Useful for pricing strategy and portfolio management.
+
 **3. Customer Segmentation**
+
 Three-Tier Customer Segmentation
 Customers are classified based on spending behavior and tenure:
 
@@ -61,7 +67,9 @@ Regular: 12+ months history AND spending ≤ $5,000
 New: Less than 12 months history
 
 This segmentation enables targeted marketing and retention strategies.
+
 **4. Comprehensive Reports (Views)**
+
 Customer Report (gold.report_customers)
 A consolidated view providing:
 Customer Demographics:
