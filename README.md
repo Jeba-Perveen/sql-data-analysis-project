@@ -77,20 +77,20 @@ Customer Demographics:
 Customer identification (key, number, name)
 Age and age group segmentation (Under 20, 20-29, 30-39, 40-49, 50+)
 
-Behavioral Metrics:
+**Behavioral Metrics:**
 
 - Total orders and sales
 - Total quantity purchased
 - Number of unique products bought
 - Customer lifespan (in months)
 
-Key Performance Indicators:
+**Key Performance Indicators:**
 
 Recency: Months since last order
 AOV (Average Order Value): Total sales / total orders
 Average Monthly Spend: Total sales / lifespan
 
-Use Cases:
+**Use Cases:**
 
 Customer lifetime value analysis
 Churn risk identification
@@ -98,39 +98,39 @@ Personalized marketing campaigns
 
 Product Report (gold.report_products)
 A consolidated view providing:
-Product Information:
+**Product Information:**
 
 - Product identification and classification
 - Category and subcategory
 - Cost structure
 
-Performance Metrics:
+**Performance Metrics:**
 
 - Total orders and revenue
 - Total quantity sold
 - Customer reach (unique customers)
 - Product lifespan (in months)
 
-Product Segmentation:
+**Product Segmentation:**
 
 - High Performers: Sales > $50,000
 - Mid Range: Sales between $10,000 - $50,000
 - Low Performers: Sales < $10,000
 
-Key Performance Indicators:
+**Key Performance Indicators:**
 
 - Recency: Months since last sale
 - Average Selling Price: Calculated from sales/quantity
 - Average Order Revenue: Revenue per order
 - Average Monthly Revenue: Sales velocity over product lifetime
 
-Use Cases:
+**Use Cases:**
 
 - Product portfolio optimization
 - Inventory planning
 - Pricing strategy development
 
-SQL Techniques Demonstrated
+**SQL Techniques Demonstrated**
 
 - Window Functions: LAG, AVG OVER, SUM OVER for trend analysis
 - CTEs (Common Table Expressions): For modular, readable queries
